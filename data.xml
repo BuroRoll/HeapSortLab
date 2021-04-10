@@ -1,0 +1,8 @@
+<experiments>
+    <experiment name="Arithmetic Progression" minElement="0" maxElement="200" startLength="1000" diff="100" maxLength="3000"
+                repeat="15">
+    </experiment>
+    <experiment name="Geometric Progression" minElement="0" maxElement="200" startLength="1000" diff="1.5" maxLength="10000"
+                repeat="15">
+    </experiment>
+</experiments>
